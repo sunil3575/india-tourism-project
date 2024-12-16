@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/india-tourism-project/static/css/main.a0736020.css",
+    "main.js": "/india-tourism-project/static/js/main.8179501b.js",
+    "index.html": "/india-tourism-project/index.html",
+    "main.a0736020.css.map": "/india-tourism-project/static/css/main.a0736020.css.map",
+    "main.8179501b.js.map": "/india-tourism-project/static/js/main.8179501b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0736020.css",
+    "static/js/main.8179501b.js"
+  ]
+}
